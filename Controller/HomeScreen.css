@@ -1,4 +1,11 @@
 html{
     text-align: center;
     background-color: gray;
+    
+}
+
+button{
+    width: 100px;
+    height: 35px;
+    margin-bottom: 50px;
 }
